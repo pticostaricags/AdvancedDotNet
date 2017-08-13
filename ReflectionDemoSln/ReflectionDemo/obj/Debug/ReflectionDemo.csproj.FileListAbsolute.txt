@@ -1,0 +1,9 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\obj\Debug\ReflectionDemo.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\obj\Debug\ReflectionDemo.Form1.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\obj\Debug\ReflectionDemo.Properties.Resources.resources
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.GenerateResource.Cache
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\ReflectionDemoSln\ReflectionDemo\obj\Debug\ReflectionDemo.pdb
